@@ -14,11 +14,11 @@ const FEATURED_PRODUCTS = [
   },
   {
     id: '2',
-    name: 'Rezalyzer',
+    name: 'Khaana',
     tagline: 'AI-powered resume analyzer and candidate screening tool.',
     status: 'Beta',
     tech: ['AI', 'React', 'Python'],
-    icon: '📄',
+    icon: '🍰',
     link: '/products/Khaana '
   },
   {
