@@ -15,7 +15,7 @@ const FEATURED_PRODUCTS = [
   {
     id: '2',
     name: 'Khaana',
-    tagline: 'AI-powered resume analyzer and candidate screening tool.',
+    tagline: 'Food delivery app with AI-powered recommendations.',
     status: 'Beta',
     tech: ['AI', 'React', 'Python'],
     icon: '🍰',
@@ -33,7 +33,7 @@ const FEATURED_PRODUCTS = [
   {
     id: '4',
     name: 'MapScraper',
-    tagline: 'Drag-and-drop interface for complex workflow automation.',
+    tagline: 'Automated web scraping and data extraction tool.',
     status: 'Internal Tool',
     tech: ['React', 'Next.js', 'Node.js'],
     icon: '🔄',
